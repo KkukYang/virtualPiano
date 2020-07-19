@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 89e9158c9bd7ee949805582aa8fa0cea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1044984169368230384
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_0
+  - first:
+      213: 4370785908621762893
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_1
+  - first:
+      213: -6330506040506306836
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_2
+  - first:
+      213: 7101354232127062601
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_3
+  - first:
+      213: 2719386985050910327
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_4
+  - first:
+      213: -3744011770953367648
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_5
+  - first:
+      213: -1016930114095630478
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_6
+  - first:
+      213: -8719820362978258641
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_7
+  - first:
+      213: 6249282348495456239
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_8
+  - first:
+      213: -8617335672233226301
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_9
+  - first:
+      213: 6380465463294840289
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_10
+  - first:
+      213: 2297324208579107258
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_11
+  - first:
+      213: -2426460826241420220
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_12
+  - first:
+      213: 6927521408944061990
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_13
+  - first:
+      213: 886445838450128494
+    second: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 497
+        width: 303
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01666ec3f687f71f0800000000000000
+      internalID: -1044984169368230384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 527
+        width: 307
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41eea060a628ac30800000000000000
+      internalID: 4370785908621762893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 524
+        width: 309
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee282feb468528a0800000000000000
+      internalID: -6330506040506306836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 506
+        width: 313
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942862eac041d8260800000000000000
+      internalID: 7101354232127062601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_4
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 497
+        width: 309
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ea7c21e043db520800000000000000
+      internalID: 2719386985050910327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 252
+        width: 308
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af717581299a0cc0800000000000000
+      internalID: -3744011770953367648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 254
+        width: 323
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277beebf27323e1f0800000000000000
+      internalID: -1016930114095630478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 254
+        width: 314
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2196775499fcf680800000000000000
+      internalID: -8719820362978258641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_8
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 254
+        width: 320
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c0339f29e9b650800000000000000
+      internalID: 6249282348495456239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_9
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 255
+        width: 356
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf8c3adcd2196880800000000000000
+      internalID: -8617335672233226301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 371
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4651a887fb8850800000000000000
+      internalID: 6380465463294840289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4
+        width: 349
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9534a223cb1ef10800000000000000
+      internalID: 2297324208579107258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4
+        width: 315
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444ba760cba735ed0800000000000000
+      internalID: -2426460826241420220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_13
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 4
+        width: 317
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e36029400832060800000000000000
+      internalID: 6927521408944061990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-antelope-walk-cycle-goat-animal-cattle-sprite-5ad75d454fd326.954567741524063557327_14
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 4
+        width: 310
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6671712bc94d4c00800000000000000
+      internalID: 886445838450128494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1951e084a922b7447aaf50c2134f658e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
