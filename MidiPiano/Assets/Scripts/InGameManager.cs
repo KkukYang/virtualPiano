@@ -20,5 +20,7 @@ public class InGameManager : MonoBehaviour
     void TestFunc()
     {
         Debug.Log("to merge commit_1");
+        Debug.Log("to merge commit_2");
+
     }
 }
