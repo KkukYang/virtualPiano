@@ -21,9 +21,11 @@ public class InGameManager : MonoBehaviour
     {
         Debug.Log("to merge commit_1");
         Debug.Log("to merge commit_2");
+<<<<<<< HEAD
         Debug.Log("to except_1");
         Debug.Log("to merge commit_3");
-        Debug.Log("to except_2");
+=======
+>>>>>>> parent of 9bdb8e7... to except_1
 
     }
 }
