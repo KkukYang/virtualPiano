@@ -17,5 +17,8 @@ public class InGameManager : MonoBehaviour
 
     public TriggerSpriteAnimation triggerAni;
     
-
+    void TestFunc()
+    {
+        Debug.Log("to merge commit_1");
+    }
 }
